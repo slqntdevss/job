@@ -5,3 +5,6 @@
 the worlds greatest proxy with tabs and a hot ui (i think atleast)
 
 
+# DEPRECATED - DO NOT USE
+
+i have the attention span of a bee so i dont wanna work on this anymore
